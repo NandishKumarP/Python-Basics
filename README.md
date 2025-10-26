@@ -1,2 +1,2 @@
 # Python-Basics
-PWSkills Python Basic assignments
+Python Basic assignments
